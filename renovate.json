@@ -2,7 +2,11 @@
   "extends": [
     "config:base"
   ],
-  "packageRules": [{
-      "packageNames": ["SwiftGen", "SwiftLint"]
-    }]
+  "packageRules": [
+    {
+      "packageNames": [
+        "SwiftGen"
+      ]
+    }
+  ]
 }
