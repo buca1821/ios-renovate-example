@@ -1,14 +1,12 @@
 {
   "packageRules": [
     {
-      "groupName": "RxSwift",
+      "groupName": "SwiftGen",
       "managers": [
         "cocoapods"
       ],
       "packageNames": [
-        "RxCocoa",
-        "RxRelay",
-        "RxSwift"
+        "SwiftGen",
       ]
     },
     {
