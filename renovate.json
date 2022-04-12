@@ -2,4 +2,5 @@
   "extends": [
     "config:base"
   ]
+  "matchesPackageNames": ["SwiftGen", "SwiftLint"]
 }
